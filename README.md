@@ -1,3 +1,5 @@
-## Panduan Pemrograman Komputer dengan Python
+## Panduan Pemrograman Komputer dengan Python (Computer Programming Guide in Python)
 
 Panduan ini dibuat sebagai pedoman dalam melakukan kegiatan pembelajaran Pemrograman Komputer yang merupakan kegiatan penunjang mata kuliah pada Jurusan Matematika Fakultas Sains dan Teknologi UIN Maulana Malik Ibrahim Malang. Panduan ini diharapkan dapat membantu mahasiswa/i dalam mempersiapkan dan melaksanakan perkuliahan dengan lebih baik, terarah, dan terencana. Pada setiap pembahasan telah dijelaskan teori singkat untuk memperdalam pemahaman mahasiswa/i mengenai materi yang dibahas.
+
+This guide was created as a guide in carrying out Computer Programming learning activities which are supporting activities for subjects in the Mathematics Department of the Faculty of Science and Technology UIN Maulana Malik Ibrahim Malang. This guide is expected to help students prepare and carry out lectures in a better, directed and planned manner. In each discussion, a brief theory has been explained to deepen students' understanding of the material discussed.
